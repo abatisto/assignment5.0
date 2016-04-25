@@ -1,0 +1,239 @@
+
+
+body{
+    margin-left:400px;
+    background-color:black;
+
+
+}
+
+h1{
+    font-size: 80pt;
+    color: white;
+    position: relative;
+    right: 40px;
+    top: 40pt;
+}
+
+li.links, li.activePage{
+     font-size: 18pt;
+     display: inline;
+     padding: 1.5em;
+     position: relative;
+     right: -1em;
+     top: -.7em;
+
+
+
+}
+
+fieldset.wrapper2{
+    background-color:lightblue;
+    color:blue;
+    position:relative;
+}
+legend{
+    color:whitesmoke;
+}
+
+fieldset.wrapper{
+    background-color:skyblue;
+    color:whitesmoke;
+    max-width:80%;
+
+}
+
+fieldset.contactInfo, fieldset.radio, fieldset.checkbox{
+    display: flex;
+}
+
+#btnSubmit{
+    background-color: whitesmoke;
+    border-radius: 1em;
+   
+
+}
+
+
+
+figure{
+    float: right;
+    max-width: 80%;
+    position:relative;
+    margin-left:-180px;
+    left: 140px;
+    top:-15px
+
+}
+img{
+    position:relative;
+    max-width: 40%;
+    left: 0px;
+    top:19px;
+}
+
+img#image{
+    border-style: double;
+    padding: 1em;
+    border-color: purple;
+    border-width: 9px;
+}
+
+figcaption{
+    position:relative;
+    left: -10px;
+    top: 20px
+}
+
+p{
+    max-width: 100%;
+    font-size: 18pt;
+    position: relative;
+    right:8em;
+    color: white;
+    border-style: solid;
+    border-color: skyblue;
+    padding: 1em;
+
+  
+}
+
+ul{
+    position:relative;
+    right: 11em;
+    border-style: solid;
+    border-color: skyblue;
+    padding: .3em;
+    max-width: 90%
+
+}
+
+h2{
+    font-size: 24pt;
+    position: relative;
+    right: 7em;
+    color: white;
+    padding: 1em;
+}
+
+h2#processed{
+    color:white;
+    font-size: 18pt
+}
+
+h3.members{
+    color: white;
+    position: relative;
+    right: 165px;
+}
+
+
+div#errors{
+    color:red;
+    font-weight:bold;
+}
+
+p.confirm{
+    color:white;
+    border-style: none;
+}
+
+p.confirm2{
+    font-weight: bolder;
+    font-size: 22pt;
+    position: relative;
+    border-style: none
+}
+
+form{
+    position: relative;
+    right: 120px
+}
+
+ol{
+    position: relative;
+    right: 120px
+}
+
+img.navimg{
+    max-width: 60px
+}
+
+li.links:hover{
+    opacity: .7
+}
+
+th, tr, td{
+    color: white;
+    padding: 2em
+}
+
+table{
+    position:relative;
+    top: -5em;
+    right: 9em;
+
+}
+
+tr:nth-child(even){
+    background-color: skyblue;
+}
+
+th{
+    font-size: 20pt;
+    position: relative;
+    right: 2em;
+    top: 2em;
+    text-decoration: underline;
+    padding: 3em
+
+}
+
+aside{
+    color: white;
+    float: right;
+    max-width: 200px;
+    font-size: 16pt;
+    position: relative;
+    right: 5em;
+    top: 6em;
+    border-style: solid;
+    border-color: skyblue;
+    padding: 1em;
+}
+
+h3#ticketInfo{
+    position:relative;
+    left: 0px;
+    font-size: 20pt;
+
+}
+
+p#footer{
+    border-style: none;
+    top: 3em
+}
+
+
+img.bandpix, figure.bandpics{
+    float: none;
+    position: relative;
+    top: -1em;
+    left: -2em;
+    display: inline;
+    padding: 5%
+
+}
+
+h2#photos{
+    font-size: 40pt;
+    right: 150pt;
+    top: -10pt
+}
+
+img#title{
+    max-width: 100%;
+    position: relative;
+    left: -13em;
+
+}
