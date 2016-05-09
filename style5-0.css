@@ -1,4 +1,47 @@
+/*** CSS added for index.php and music.php ***/
+.h3img{
+    float: right;
+}
 
+#music_list{
+    color: white;
+    border: none;
+    font-size: 18pt;
+    float: right;
+}
+
+#music_header{
+  font-size:3em;
+  margin:auto;
+  padding-bottom:.2em;
+  margin-left: -2.7em;
+}
+
+#music{
+    padding: 0em;
+    border: none;
+}
+
+audio{
+    margin-left: -5cm;
+}
+
+#music_img{
+    margin-left:-1cm;
+    padding-bottom:1cm;
+}
+
+.music{
+    border: none;
+}
+
+h3 {
+  color:white;
+  margin-left:-5cm;
+  font-size:25px;
+}
+ 
+/*** End new CSS **/
 
 body{
     margin-left:400px;
