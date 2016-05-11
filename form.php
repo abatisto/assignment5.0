@@ -39,7 +39,7 @@ $thisURL = $domain . $phpSelf;
 
 $firstName= "";
 $lastName="";
-$email = "abatisto@uvm.edu";
+$email = "youremail@uvm.edu";
 $ageRange = "10-19";
 $gender = "Male";
 $mailList = true;
@@ -287,7 +287,7 @@ if (isset($_POST["btnSubmit"])) {
 ?>
 
 <article id="main">
-    <h2>Subscribe</h2>
+    <h2>Join Our Mailing List</h2>
 
     <?php
     
@@ -355,14 +355,11 @@ if (isset($_POST["btnSubmit"])) {
 
 
     <p>
-        Please complete the form below to subscribe to Drum Lover Magazine! Upon subscribing,
-        you will be signed up for our email list, and will automatically be sent a free
-        issue of Drum Lover Magazine. If you love it you can sign up for a full year 
-        subscription and enjoy all the perks of being a member of the Drum Lover family.
-        If for some reason you do not love our magazine, you can keep the free issue on us!
-        Stay on tempo with all the latest product reviews, interviews, and sheet music from the
-        drumming world with Drum Lover Magazine!
-       
+        Please complete the form below to subscribe to Cold Era.  We'll send you band updates, new music, tour dates, 
+        and much more.  Upon subscribing, we'll mail you a free MP3 download for our new release, Sandbox.  Plus you can
+        choose to be entered into our monthly contest where you can win awesome freebies like concert tickets, band 
+        merch, free song downloads, and opportunities to get back stage and meet the band.  You don't wanna miss out,
+        so sign up today!
     </p>
    
     
