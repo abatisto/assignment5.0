@@ -1,0 +1,395 @@
+
+
+body{
+    margin-left:30%;
+    margin-right:auto;
+    background-color:black;
+    overflow-x: hidden;
+
+
+}
+
+img#bg{
+    max-width: 150%;
+    position: relative;
+    opacity: .26;
+    top: -20em;
+    left: -50%;
+    z-index:2
+}
+
+img#bg2{
+    position:relative;
+    opacity: .5;
+    top: -28em;
+    max-width: 55%;
+}
+
+h1{
+    font-size: 80pt;
+    color: white;
+    position: relative;
+    right: 40px;
+}
+
+li.links, li.activePage{
+     font-size: 18pt;
+     display: inline;
+     padding: 4.5%;
+     position: relative;
+     right: -3%;
+
+
+
+}
+
+fieldset.wrapper2, fieldset.radio, fieldset.contactInfo,fieldset.button, fieldset.listbox, fieldset.checkbox{
+    background-color:rgba(100,180,900,.1);
+    color:white;
+    position:relative;
+    border-style: solid;
+    border-color: skyblue;
+}
+legend{
+    color:white;
+    text-decoration:underline;
+    font-weight: bolder;
+}
+
+fieldset.wrapper{
+    background-color:rgba(100,180,700,0.2);
+    color:white;
+    max-width:80%;
+    border-style: solid;
+    border-color: skyblue;
+
+}
+
+fieldset.contactInfo, fieldset.radio, fieldset.checkbox{
+    display: flex;
+}
+
+#btnSubmit{
+    background-color: whitesmoke;
+    border-radius: 1em;
+   
+
+}
+
+
+
+figure{
+    float: right;
+    max-width: 80%;
+    position:relative;
+    margin-left:-180px;
+    left: 140px;
+    top:-15px
+
+}
+img{
+    position:relative;
+    max-width: 40%;
+    left: 0px;
+    top:19px;
+}
+
+img#image{
+    border-style: double;
+    padding: 1em;
+    border-color: skyblue;
+    border-width: 9px;
+    position: relative;
+    top: -28em
+}
+
+figcaption{
+    position:relative;
+    left: -10px;
+    top: 20px
+}
+
+p{
+    max-width: 100%;
+    font-size: 18pt;
+    position: relative;
+    top:-20em;
+    right:20%;
+    color: white;
+    border-style: solid;
+    border-color: skyblue;
+    padding: 1em;
+    background-color: rgba(100,180,700,0.2)
+
+  
+}
+
+ul{
+    position:relative;
+    right: 11em;
+    top:-32em;
+    padding: .3em;
+    max-width: 90%;
+    z-index: 3;
+
+
+}
+
+h2{
+    font-size: 24pt;
+    position: relative;
+    right: 7em;
+    color: white;
+    padding: 1em;
+    top: -15em;
+    z-index: 4;
+}
+
+h2#processed{
+    color:white;
+    font-size: 18pt;
+    position: relative;
+    top: -20em;
+    right: 25%
+}
+
+h3.members{
+    color: white;
+    position: relative;
+    right: 165px;
+}
+
+
+div#errors{
+    color:red;
+    font-weight:bold;
+    position:relative;
+    top: -25em;
+    font-size: 16pt
+}
+
+
+h2#mistakes{
+    position:relative;
+    top:0em;
+    color: red;
+}
+
+p.confirm{
+    color:white;
+    border-style: none;
+    background-color: transparent;
+    padding: .1em
+}
+
+p.confirm2{
+    font-weight: bolder;
+    font-size: 22pt;
+    position: relative;
+    border-style: none;
+    top: -16em;
+    background-color: transparent;
+    right: 24%
+}
+
+form{
+    position: relative;
+    right: 120px;
+    top: -30em
+}
+
+ol{
+    position: relative;
+    right: 120px
+}
+
+img.navimg{
+    max-width: 60px
+}
+
+li.links:hover{
+    opacity: 1.0;
+}
+
+li.activePage{
+    opacity: 1.0;
+}
+
+li.links{
+    opacity: .5
+}
+
+th, tr, td{
+    color: white;
+    padding: 2em
+}
+
+table{
+    position:relative;
+    top: -35em;
+    right: 9em;
+
+}
+
+tr:nth-child(even){
+    background-color: skyblue;
+}
+
+th{
+    font-size: 20pt;
+    position: relative;
+    right: 2em;
+    top: 2em;
+    text-decoration: underline;
+    padding: 3em
+
+}
+
+aside{
+    color: white;
+    float: right;
+    max-width: 200px;
+    font-size: 16pt;
+    position: relative;
+    right: 5em;
+    top: -13em;
+    border-style: solid;
+    border-color: skyblue;
+    padding: 1em;
+    background-color: rgba(100,180,700,0.2);
+}
+
+h3#ticketInfo{
+    position:relative;
+    left: 0px;
+    font-size: 20pt;
+
+}
+
+
+
+img.bandpix, figure.bandpics{
+    float: none;
+    position: relative;
+    top: -20em;
+    left: -2em;
+    display: inline;
+    padding: 5%
+
+}
+
+h2#pics{
+    font-size: 40pt;
+    right: 150pt;
+    top: -10em;
+    z-index: 5
+}
+
+img#title{
+    max-width: 100%;
+    position: relative;
+    left: -25%;
+    z-index: 3;
+
+}
+
+h3.members{
+    position: relative;
+    top:-27em;
+}
+
+h3.about{
+    color: white;
+    position: relative;
+    top: -20em;
+    right: 13em
+}
+
+img#about{
+    position: relative;
+    top: -20em;
+    left: -15em
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+a.members:hover{
+    opacity: .5
+}
+
+img#coachella, img#album, img#magazine, img#live{
+    position: relative;
+    top:-30em;
+    left: 30%;
+}
+
+
+#music_list{
+    color: white;
+    border: none;
+    font-size: 24pt;
+    position: relative;
+    top: -10em;
+    left: -4em;  
+    
+}
+
+#music_header{
+  font-size:3em;
+  position: relative;
+  top: -10em;
+  left: -20%
+}
+
+
+
+
+#music_img{
+    position: relative;
+    top: -40em;
+    max-width: 35%;
+    left: 35%
+}
+
+audio{
+    position: relative;
+    top: -30em;
+    padding-bottom: 5em;
+    left: 1em
+}
+
+.music{
+    position: relative;
+    top: -21em;
+    left: -8em;
+}
+
+a#back{
+    font-size: 25pt;
+    text-decoration: underline;
+    position: relative;
+    top: -8em;
+    right: 50%
+}
+
+a#back:hover, .inLineLinks:hover{
+    opacity: .7
+}
+
+.inLineLinks{
+    text-decoration: underline
+}
+
+h3.news{
+    font-size:22pt;
+    color: white;
+    position: relative;
+    top: -8em;
+    left: -15%;
+    max-width: 40%
+}
+
